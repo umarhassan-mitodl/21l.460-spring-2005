@@ -33,6 +33,7 @@
     "website": "21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005"
   },
   "course_title": "Medieval Literature: Dante, Boccaccio, Chaucer",
+  "hide_download": true,
   "course_description": "The course explores the literary masterworks of three of the most celebrated authors of the Middle Ages in their original literary and historical contexts. The various themes they take up - the importance of writing in the vernacular; the discourse of love as a form of discipline practised upon the self; the personal and political aspirations of the self in society; the constitution of ideal forms of social organization; the role of religion in the life and works of lay authors - transformed the course of much of Western literature for the next five centuries. Readings will include the entire _Divine Comedy_, generous selections from the _Decameron_, and all of _Troilus and Criseyde_ in the original Middle English, together with samplings from the _Troubadour tradition_ and the _dolce stil nuovo._\n",
   "department_numbers": [
     "21L"
@@ -43,6 +44,7 @@
     "content": "d3cf8924-230f-864f-a710-90ca52388078",
     "website": "21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],

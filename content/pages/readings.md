@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: a02344e7-1cde-1063-42d4-59f07b259aab
 ---
-{{% resource_link "7e7d819b-cbd4-4690-967d-5f685fd2231a" "Readings are also listed by session" %}}.
+[Readings are also listed by session](https://ocw-studio.odl.mit.edu/sites/21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005/type/page/edit/a02344e7-1cde-1063-42d4-59f07b259aab/#ses).
 
 ## Required Texts
 
@@ -29,15 +29,15 @@ Chaucer, Geoffrey. *Troilus and Criseyde*. Edited by Barry Windeatt. Oxford, UK:
 
 Additionally, the following selection of works are available on the Web:
 
-{{% resource_link "769b7897-c5aa-4b76-af67-b857afb1dfa1" "Selected Troubadour Lyrics" %}}
+[Selected Troubadour Lyrics](http://www.britannica.com/art/troubadour-lyric-artist)
 
-{{% resource_link "1e2ae340-a429-41cf-affa-dff7df7eb172" "Guido Guinizelli" %}}
+[Guido Guinizelli](http://www.auburn.edu/~bertocr/)
 
-{{% resource_link "25cae528-cc03-4453-8cb3-7a2232846632" "Guido Cavalcante" %}}
+[Guido Cavalcante](https://www.britannica.com/biography/Guido-Cavalcanti)
 
-{{% resource_link "9c765587-651f-400c-95d3-52c3d9d52eba" "Dante, De Vulgari Eloquentia" %}}
+[Dante, De Vulgari Eloquentia](http://www.danteonline.it/italiano/opere.asp?idope=3&idlang=OR)
 
-{{% resource_link "fc168247-15e0-4886-88fb-dfc0abb36067" "Petrarch" %}}
+[Petrarch](https://www.britannica.com/biography/Petrarch)
 
 ## anchoranchoranchoranchorReadings by Session
 
@@ -59,7 +59,7 @@ Introduction
 
 Domination and Desire
 
-Selected authors. {{% resource_link "769b7897-c5aa-4b76-af67-b857afb1dfa1" "*Selected Troubadour Lyrics*" %}}.
+Selected authors. [*Selected Troubadour Lyrics*](http://www.britannica.com/art/troubadour-lyric-artist).
 
 3
 
@@ -67,7 +67,7 @@ Selected authors. {{% resource_link "769b7897-c5aa-4b76-af67-b857afb1dfa1" "*Sel
 
 Dante. *La Vita Nuova*. i-xxi.
 
-Guinizelli, Guido. {{% resource_link "1e2ae340-a429-41cf-affa-dff7df7eb172" "*Al cor gentil*" %}}.
+Guinizelli, Guido. [*Al cor gentil*](http://www.auburn.edu/~bertocr/).
 
 4
 
@@ -75,7 +75,7 @@ Ennobling Love: Sublimation and Subjection
 
 Dante. *La Vita Nuova*. xxii-xlii.
 
-Cavalcante, Guido. {{% resource_link "83a3e66a-b7c2-4282-aeb9-aa5c31674e32" "*Sonnets*" %}}. xxii and xxiii.
+Cavalcante, Guido. [*Sonnets*](https://en.wikisource.org/wiki/Sonnets_and_Ballate_of_Guido_Cavalcanti/Sonnets). xxii and xxiii.
 
 5
 
@@ -101,7 +101,7 @@ Epic and Romance
 
 Dante. *Inferno.* xii-xxii.
 
-{{% resource_link "9c765587-651f-400c-95d3-52c3d9d52eba" "*De Vulgari Eloquentia*" %}}.
+[*De Vulgari Eloquentia*](http://www.danteonline.it/italiano/opere.asp?idope=3&idlang=OR).
 
 9
 
@@ -187,7 +187,7 @@ Free Will and Determinism
 
 Chaucer. *Troilus and Criseyde.* II.
 
-{{% resource_link "fc168247-15e0-4886-88fb-dfc0abb36067" "Petrarch" %}}, Sonnet cxxxii, "S'amor non è."
+[Petrarch](https://www.britannica.com/biography/Petrarch), Sonnet cxxxii, "S'amor non è."
 
 23
 

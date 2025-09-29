@@ -4,6 +4,8 @@ description: This syllabus section provides the course description and informati
   on meeting times, criteria for HASS CI subjects, grading, class participation and
   attendance policy, writing requirements, rewrite policy, late paper policy, and
   plagiarism policy.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -120,6 +122,6 @@ All papers, with the exception of the final paper, may receive an automatic exte
 Plagiarism Policy
 -----------------
 
-Plagiarism - use of another's intellectual work without acknowledgement, is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the Writing and Communication Center and the {{% resource_link "bee631c0-87f5-457a-8b52-d90ac380cab3" "MIT Web site on Plagiarism" %}}.
+Plagiarism - use of another's intellectual work without acknowledgement, is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the Writing and Communication Center and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
 
 There is no final exam for this class.
