@@ -4,8 +4,6 @@ description: Presentation schedule.
 file: /courses/21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005/9235e73781f70bf314f8c31d4274cb18_presentationsch.pdf
 file_size: 10677
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
